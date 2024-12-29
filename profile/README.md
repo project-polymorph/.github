@@ -18,7 +18,7 @@
 根目录，按照内容与来源分类
 
 
-总计 32599 篇内容
+总计 20312 篇内容
 
 
 ### 📚 独立档案库与网站
@@ -26,7 +26,8 @@
 - [跨性别与多元性别文档档案馆: https://digital.transchinese.org](https://digital.transchinese.org) (1219 篇内容)
 - [跨性别与多元性别新闻档案馆: https://news.transchinese.org](https://news.transchinese.org) (3985 篇内容)
 - [变身文学与性转小说档案馆（一）: https://novel.transchinese.org](https://novel.transchinese.org) (2317 篇内容)
-- [变身文学与性转小说档案馆（二）: https://enovel.transchinese.org](https://enovel.transchinese.org) (1699 篇内容)
+- [变身文学与性转小说档案馆（二）: https://xnovel.transchinese.org](https://xnovel.transchinese.org) (1677 篇内容)
+- [性转漫画档案馆: https://comic.transchinese.org](https://comic.transchinese.org) (3409 篇内容)
 
 
 > 本内容为自动生成，请修改 .github/ 目录下的对应脚本或者模板
