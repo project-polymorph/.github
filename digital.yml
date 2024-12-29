@@ -1,16 +1,16 @@
 independence:
-  - name: 成人性转小说档案馆
-    path: https://snovel.cdtsf.com
-    url: https://snovel.cdtsf.com
-  - name: TSF 变身文学档案馆（短篇）
-    path: https://archive.cdtsf.com
-    url: https://archive.cdtsf.com
-  - name: 阉割与人体改造中文档案馆
-    path: https://enovel.cdtsf.com
-    url: https://enovel.cdtsf.com
-  - name: 扶他与双性中文档案馆
-    path: https://fnovel.cdtsf.com
-    url: https://fnovel.cdtsf.com
+  - name: 跨性别与多元性别文档档案馆
+    path: https://digital.transchinese.org
+    url: https://digital.transchinese.org
+  - name: 跨性别与多元性别新闻档案馆
+    path: https://news.transchinese.org
+    url: https://news.transchinese.org
+  - name: 变身文学与性转小说档案馆（一）
+    path: https://novel.transchinese.org
+    url: https://novel.transchinese.org
+  - name: 变身文学与性转小说档案馆（二）
+    path: https://enovel.transchinese.org
+    url: https://enovel.transchinese.org
 ignore:
   - '.*\.github.*'
   - '.*\.git.*'
