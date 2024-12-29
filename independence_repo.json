@@ -1,29 +1,29 @@
 [
   {
-    "name": "成人性转小说档案馆",
-    "url": "https://snovel.cdtsf.com",
-    "size": 4536,
+    "name": "跨性别与多元性别文档档案馆",
+    "url": "https://digital.transchinese.org",
+    "size": 1219,
     "description": "",
     "last_updated": null
   },
   {
-    "name": "TSF 变身文学档案馆（短篇）",
-    "url": "https://archive.cdtsf.com",
-    "size": 10105,
+    "name": "跨性别与多元性别新闻档案馆",
+    "url": "https://news.transchinese.org",
+    "size": 3985,
     "description": "",
     "last_updated": null
   },
   {
-    "name": "阉割与人体改造中文档案馆",
-    "url": "https://enovel.cdtsf.com",
+    "name": "变身文学与性转小说档案馆（一）",
+    "url": "https://novel.transchinese.org",
+    "size": 2317,
+    "description": "",
+    "last_updated": null
+  },
+  {
+    "name": "变身文学与性转小说档案馆（二）",
+    "url": "https://enovel.transchinese.org",
     "size": 1699,
-    "description": "",
-    "last_updated": null
-  },
-  {
-    "name": "扶他与双性中文档案馆",
-    "url": "https://fnovel.cdtsf.com",
-    "size": 402,
     "description": "",
     "last_updated": null
   }
