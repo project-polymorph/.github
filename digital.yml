@@ -9,8 +9,11 @@ independence:
     path: https://novel.transchinese.org
     url: https://novel.transchinese.org
   - name: 变身文学与性转小说档案馆（二）
-    path: https://enovel.transchinese.org
-    url: https://enovel.transchinese.org
+    path: https://xnovel.transchinese.org
+    url: https://xnovel.transchinese.org
+  - name: 性转漫画档案馆
+    path: https://comic.transchinese.org
+    url: https://comic.transchinese.org
 ignore:
   - '.*\.github.*'
   - '.*\.git.*'
