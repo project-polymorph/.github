@@ -1,0 +1,26 @@
+independence:
+  - name: 跨性别与多元性别文档档案馆
+    path: https://digital.transchinese.org
+    url: https://digital.transchinese.org
+  - name: 跨性别与多元性别新闻档案馆
+    path: https://news.transchinese.org
+    url: https://news.transchinese.org
+  - name: 变身文学与性转小说档案馆（一）
+    path: https://novel.transchinese.org
+    url: https://novel.transchinese.org
+  - name: 变身文学与性转小说档案馆（二）
+    path: https://xnovel.transchinese.org
+    url: https://xnovel.transchinese.org
+  - name: 性转漫画档案馆
+    path: https://comic.transchinese.org
+    url: https://comic.transchinese.org
+ignore:
+  - '.*\.github.*'
+  - '.*\.git.*'
+  - '.*CODE_OF_CONDUCT\.md.*'
+  - '.*LICENSE.*'
+  - 'digital\.yml'
+  - 'page\.yml'
+  - 'search_index\.yml'
+  - '.*profile.*'
+  - '.*independence_repo.*'
